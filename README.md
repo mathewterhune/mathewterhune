@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mathewterhune
 - 👀 I’m interested in software engineering and computer science
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Science at the University of Victoria
 
 <!---
 mathewterhune/mathewterhune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
