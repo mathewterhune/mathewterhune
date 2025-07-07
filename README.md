@@ -1,8 +1,34 @@
-- 🔗 Connect: [Portfolio](https://portfolio-site-mathew-terhunes-projects.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mathew-terhune-b07749235/)
+# 👋 Hi, I'm Mathew Terhune
 
-  🔥🔥 Most of My Repositories are private! If you have any questions feel free to reach me on my LinkedIn 🔥🔥
+I'm a Computer Science graduate from the University of Victoria with experience in full-stack development, research, and systems programming. I enjoy building tools that help people explore data and ideas through interactive and performant software.
 
-<!---
-mathewterhune/mathewterhune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Links
+
+- 🌍 [Website](https://mathewterhune.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathew-terhune-b07749235/)
+- 🗂 [GitHub Repositories](https://github.com/mathewterhune?tab=repositories)
+- 📬 [Email Me](mailto:mathewterhune@gmail.com)
+
+## 🚀 Projects
+
+- **Search Algorithm Visualization Tool**  
+  Real-time graph exploration with BFS/DFS using React  
+  🔗 [GitHub](https://github.com/mathewterhune/Search-Algorithm-Visualization)
+
+- **P2P Search Algorithm Simulation (NS3)**  
+  Simulates flooding, normalized flooding, and k-random walk in Gnutella-style networks  
+  🔗 [Website](https://ali-gaineshev.github.io/p2p_network_simulation/) | [GitHub](https://github.com/ali-gaineshev/p2p_network_simulation)
+
+- **Parallel A-Star with CUDA**  
+  GPU-accelerated pathfinding using a custom priority queue and grid visualizer  
+  🔗 [GitHub](https://github.com/CudaQueueX/485B)
+
+- **NHL Game Predictor**  
+  LSTM + Logistic Regression trained on 1.75M+ events to predict game outcomes  
+  🔗 [Article](https://matthewtrent.me/articles/hockey-predictor)
+
+## 🛠 Skills
+
+**Languages**: C++, Python, JavaScript, CUDA, Rust  
+**Tools**: React, PostgreSQL, Node.js, NS-3, OpenCV, Power BI  
+**Interests**: Machine Learning, Computer Vision, Systems Programming, Web Dev
