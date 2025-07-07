@@ -27,8 +27,4 @@ I'm a Computer Science graduate from the University of Victoria with experience 
   LSTM + Logistic Regression trained on 1.75M+ events to predict game outcomes  
   🔗 [Article](https://matthewtrent.me/articles/hockey-predictor)
 
-## 🛠 Skills
 
-**Languages**: C++, Python, JavaScript, CUDA, Rust  
-**Tools**: React, PostgreSQL, Node.js, NS-3, OpenCV, Power BI  
-**Interests**: Machine Learning, Computer Vision, Systems Programming, Web Dev
