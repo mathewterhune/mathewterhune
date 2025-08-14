@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate from the University of Victoria with experience in full-stack development, research, and systems programming. I enjoy building tools that help people explore data and ideas through interactive and performant software.
 
-## 🌐 Links
+##  Links
 
 -  [Website](https://mathewterhune.me)
 -  [LinkedIn](https://www.linkedin.com/in/mathew-terhune-b07749235/)
