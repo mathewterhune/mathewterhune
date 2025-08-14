@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Mathew Terhune
+# Hi, I'm Mathew Terhune
 
 I'm a Computer Science graduate from the University of Victoria with experience in full-stack development, research, and systems programming. I enjoy building tools that help people explore data and ideas through interactive and performant software.
 
 ## 🌐 Links
 
-- 🌍 [Website](https://mathewterhune.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mathew-terhune-b07749235/)
-- 🗂 [GitHub Repositories](https://github.com/mathewterhune?tab=repositories)
-- 📬 [Email Me](mailto:mathewterhune@gmail.com)
+-  [Website](https://mathewterhune.me)
+-  [LinkedIn](https://www.linkedin.com/in/mathew-terhune-b07749235/)
+-  [GitHub Repositories](https://github.com/mathewterhune?tab=repositories)
+-  [Email Me](mailto:mathewterhune@gmail.com)
 
-## 🚀 Projects
+## Projects
 
 - **Search Algorithm Visualization Tool**  
   Real-time graph exploration with BFS/DFS using React  
